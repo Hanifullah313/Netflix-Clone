@@ -17,6 +17,6 @@ Check out the project walkthrough video on my LinkedIn: [LinkedIn Post](#)
 
 ## 📂 Installation
 ```bash
-git clone https://github.com/yourusername/Netflix-Clone-Responsive.git
-cd Netflix-Clone-Responsive
-# Netflix-Clone
+git clone https://github.com/yourusername/Netflix-Clone.git
+cd Netflix-Clone
+
